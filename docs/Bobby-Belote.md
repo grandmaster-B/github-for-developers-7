@@ -1,6 +1,9 @@
-Name: Grandmaster_B
-HomeTown: San Antonio
-Fav Food: Teriyaki Chicken Wings
-Hobby: Boardgames
+**Name:** Grandmaster_B
 
-**Favorite Color:** MIDORI
+**HomeTown:** San Antonio
+
+**Fav Food:** Teriyaki Chicken Wings
+
+**Hobby:** Boardgames
+
+**Favorite Color:** Midori
